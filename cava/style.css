@@ -1,0 +1,5 @@
+.cava-bar {
+    /* border: 2px solid var(--on_surface); */
+    min-width: 3px;
+    background-color: var(--on_surface);
+}
